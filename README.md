@@ -3,7 +3,7 @@
 * 💼 I am a developer Full Stack
 * 👀 Currently working on: Big project as back developer | Fivem : [LS-Five](https://ls-five.fr/) | 
 * 🌱 Learning all he can about: [AngularJS](https://angular.io/), [ReactJS](https://fr.reactjs.org/), [Electron](https://www.electronjs.org/)
-* 📫 How to reach me: [Discord](https://discord.com/) --> .Citar_#7206  || [Twitter](https://twitter.com/CitarCil)
+* 📫 How to reach me: [Discord](https://discord.com/) --> .Citar_#7206  || [WebSite](https://www.alan-santer.site/)
 
 <!---
 CitarOff/CitarOff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
