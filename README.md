@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Find missions and live from my passion
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I play ALL games, and I am passionate about everything electronic or electric
 
 ### Connect with me:
 
