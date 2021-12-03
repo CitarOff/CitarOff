@@ -29,10 +29,10 @@
 ---
 
 ### GitHub Stats:
-<img align="top" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CitarOff&show_icons=true&hide_border=true" />
+<img align="top" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CitarOff&show_icons=true&hide_border=true&theme=github_dark" />
 
 
-<p align="top"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CitarOff" alt="CitarOff" /></a> </p>
+<p align="top"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CitarOff&theme=darkhub" alt="CitarOff" /></a> </p>
 
 <!---
 CitarOff/CitarOff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
