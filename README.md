@@ -28,7 +28,6 @@
 
 ---
 
-### GitHub Stats:
 <img align="top" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CitarOff&show_icons=true&hide_border=true&theme=github_dark" />
 
 
