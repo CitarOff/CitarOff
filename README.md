@@ -28,7 +28,8 @@
 
 ---
 
-<img align="top" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CitarOff&show_icons=true&hide_border=true&theme=github_dark" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=citaroff&show_icons=true&locale=en&layout=compact" alt="citaroff" /></p>
+<p><img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CitarOff&show_icons=true&hide_border=true&theme=github_dark" /></p>
 
 
 <p align="top"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CitarOff&theme=darkhub" alt="CitarOff" /></a> </p>
