@@ -1,4 +1,4 @@
-### **Hi, Comrade, I'm Alan** 👋
+# Hello world, I'm Alan - aka [.Citar_][website] <img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
 [![Website](https://img.shields.io/website?label=alan-santer.site&style=for-the-badge&url=https%3A%2F%2Falan-santer.site)](https://alan-santer.site)
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-santer-7661b3183/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CitarOff&label=Profile%20views&color=0e75b6&style=flat" alt="CitarOff" /> </p>
